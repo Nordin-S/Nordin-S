@@ -5,7 +5,7 @@ Passionate Developer | Tinkerer | Problem Solver
 
 <!-- Projects -->
 ### Projects
-- [Space Shooter (space-pewpew) - Qt Application](https://github.com/Nordn-S/space-pewpew)
+- [Space Shooter (space-pewpew) - Qt Application](https://github.com/Nordin-S/space-pewpew)
 - [Trackzy - MVC issue tracker](https://github.com/Nordin-S/trackzy)
 - Thesis: Implementing Zero Trust in a Remote Work Environment (in progress)
 
