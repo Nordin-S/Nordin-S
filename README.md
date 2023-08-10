@@ -11,6 +11,6 @@ Passionate Developer | Tinkerer | Problem Solver
 
 <!-- Get in Touch -->
 ### Get in Touch
-📧 [Email](mailto:nordin.suleimani@gmail.com) | [LinkedIn](https://linkedin.com/in/nordins) |
+[LinkedIn](https://linkedin.com/in/nordins)
 
 Feel free to reach out for collaboration opportunities or if you have any questions. Let's build something amazing together! 🚀
